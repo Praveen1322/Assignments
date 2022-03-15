@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Loan
+public class Type
 {
     int amount=0,time=0;
     double rate=0.0;
