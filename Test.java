@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Test extends Loan
+public class Test extends Type
 {
 
     public static void main(String[] args)
